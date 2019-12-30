@@ -1,0 +1,26 @@
+PROGRAM TestProgram IS
+
+    INSTRUCTION FindObstacle IS
+        WHILE next-is-empty DO
+            move
+        END WHILE
+    END FindObstacle
+
+BEGIN
+    WHILE true DO
+        FindObstacle
+        IF next-is-enemy THEN
+            infect
+        ELSE
+            IF next-is-wall THEN
+                IF random THEN
+                    turnleft
+                ELSE
+                    turnright
+                END IF
+            ELSE
+                skip
+            END IF
+        END IF
+    END WHILE
+END TestProgram
