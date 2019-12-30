@@ -1,0 +1,268 @@
+IDENTIFIER: <Four>
+IDENTIFIER: <score>
+IDENTIFIER: <and>
+IDENTIFIER: <seven>
+IDENTIFIER: <years>
+IDENTIFIER: <ago>
+IDENTIFIER: <our>
+IDENTIFIER: <fathers>
+IDENTIFIER: <brought>
+IDENTIFIER: <forth>
+IDENTIFIER: <on>
+IDENTIFIER: <this>
+IDENTIFIER: <continent>
+IDENTIFIER: <a>
+IDENTIFIER: <new>
+ERROR     : <nation,>
+IDENTIFIER: <conceived>
+IDENTIFIER: <in>
+ERROR     : <liberty,>
+IDENTIFIER: <and>
+IDENTIFIER: <dedicated>
+IDENTIFIER: <to>
+IDENTIFIER: <the>
+IDENTIFIER: <proposition>
+IDENTIFIER: <that>
+IDENTIFIER: <all>
+IDENTIFIER: <men>
+IDENTIFIER: <are>
+IDENTIFIER: <created>
+ERROR     : <equal.>
+IDENTIFIER: <Now>
+IDENTIFIER: <we>
+IDENTIFIER: <are>
+IDENTIFIER: <engaged>
+IDENTIFIER: <in>
+IDENTIFIER: <a>
+IDENTIFIER: <great>
+IDENTIFIER: <civil>
+ERROR     : <war,>
+IDENTIFIER: <testing>
+IDENTIFIER: <whether>
+IDENTIFIER: <that>
+ERROR     : <nation,>
+IDENTIFIER: <or>
+IDENTIFIER: <any>
+IDENTIFIER: <nation>
+IDENTIFIER: <so>
+IDENTIFIER: <conceived>
+IDENTIFIER: <and>
+IDENTIFIER: <so>
+ERROR     : <dedicated,>
+IDENTIFIER: <can>
+IDENTIFIER: <long>
+ERROR     : <endure.>
+IDENTIFIER: <We>
+IDENTIFIER: <are>
+IDENTIFIER: <met>
+IDENTIFIER: <on>
+IDENTIFIER: <a>
+IDENTIFIER: <great>
+IDENTIFIER: <battle-field>
+IDENTIFIER: <of>
+IDENTIFIER: <that>
+ERROR     : <war.>
+IDENTIFIER: <We>
+IDENTIFIER: <have>
+IDENTIFIER: <come>
+IDENTIFIER: <to>
+IDENTIFIER: <dedicate>
+IDENTIFIER: <a>
+IDENTIFIER: <portion>
+IDENTIFIER: <of>
+IDENTIFIER: <that>
+ERROR     : <field,>
+IDENTIFIER: <as>
+IDENTIFIER: <a>
+IDENTIFIER: <final>
+IDENTIFIER: <resting>
+IDENTIFIER: <place>
+IDENTIFIER: <for>
+IDENTIFIER: <those>
+IDENTIFIER: <who>
+IDENTIFIER: <here>
+IDENTIFIER: <gave>
+IDENTIFIER: <their>
+IDENTIFIER: <lives>
+IDENTIFIER: <that>
+IDENTIFIER: <that>
+IDENTIFIER: <nation>
+IDENTIFIER: <might>
+ERROR     : <live.>
+IDENTIFIER: <It>
+IDENTIFIER: <is>
+IDENTIFIER: <altogether>
+IDENTIFIER: <fitting>
+IDENTIFIER: <and>
+IDENTIFIER: <proper>
+IDENTIFIER: <that>
+IDENTIFIER: <we>
+IDENTIFIER: <should>
+IDENTIFIER: <do>
+ERROR     : <this.>
+ERROR     : <But,>
+IDENTIFIER: <in>
+IDENTIFIER: <a>
+IDENTIFIER: <larger>
+ERROR     : <sense,>
+IDENTIFIER: <we>
+IDENTIFIER: <can>
+IDENTIFIER: <not>
+ERROR     : <dedicate,>
+IDENTIFIER: <we>
+IDENTIFIER: <can>
+IDENTIFIER: <not>
+ERROR     : <consecrate,>
+IDENTIFIER: <we>
+IDENTIFIER: <can>
+IDENTIFIER: <not>
+IDENTIFIER: <hallow>
+IDENTIFIER: <this>
+ERROR     : <ground.>
+IDENTIFIER: <The>
+IDENTIFIER: <brave>
+ERROR     : <men,>
+IDENTIFIER: <living>
+IDENTIFIER: <and>
+ERROR     : <dead,>
+IDENTIFIER: <who>
+IDENTIFIER: <struggled>
+ERROR     : <here,>
+IDENTIFIER: <have>
+IDENTIFIER: <consecrated>
+ERROR     : <it,>
+IDENTIFIER: <far>
+IDENTIFIER: <above>
+IDENTIFIER: <our>
+IDENTIFIER: <poor>
+IDENTIFIER: <power>
+IDENTIFIER: <to>
+IDENTIFIER: <add>
+IDENTIFIER: <or>
+ERROR     : <detract.>
+IDENTIFIER: <The>
+IDENTIFIER: <world>
+IDENTIFIER: <will>
+IDENTIFIER: <little>
+ERROR     : <note,>
+IDENTIFIER: <nor>
+IDENTIFIER: <long>
+IDENTIFIER: <remember>
+IDENTIFIER: <what>
+IDENTIFIER: <we>
+IDENTIFIER: <say>
+ERROR     : <here,>
+IDENTIFIER: <but>
+IDENTIFIER: <it>
+IDENTIFIER: <can>
+IDENTIFIER: <never>
+IDENTIFIER: <forget>
+IDENTIFIER: <what>
+IDENTIFIER: <they>
+IDENTIFIER: <did>
+ERROR     : <here.>
+IDENTIFIER: <It>
+IDENTIFIER: <is>
+IDENTIFIER: <for>
+IDENTIFIER: <us>
+IDENTIFIER: <the>
+ERROR     : <living,>
+ERROR     : <rather,>
+IDENTIFIER: <to>
+IDENTIFIER: <be>
+IDENTIFIER: <dedicated>
+IDENTIFIER: <here>
+IDENTIFIER: <to>
+IDENTIFIER: <the>
+IDENTIFIER: <unfinished>
+IDENTIFIER: <work>
+IDENTIFIER: <which>
+IDENTIFIER: <they>
+IDENTIFIER: <who>
+IDENTIFIER: <fought>
+IDENTIFIER: <here>
+IDENTIFIER: <have>
+IDENTIFIER: <thus>
+IDENTIFIER: <far>
+IDENTIFIER: <so>
+IDENTIFIER: <nobly>
+ERROR     : <advanced.>
+IDENTIFIER: <It>
+IDENTIFIER: <is>
+IDENTIFIER: <rather>
+IDENTIFIER: <for>
+IDENTIFIER: <us>
+IDENTIFIER: <to>
+IDENTIFIER: <be>
+IDENTIFIER: <here>
+IDENTIFIER: <dedicated>
+IDENTIFIER: <to>
+IDENTIFIER: <the>
+IDENTIFIER: <great>
+IDENTIFIER: <task>
+IDENTIFIER: <remaining>
+IDENTIFIER: <before>
+ERROR     : <us�that>
+IDENTIFIER: <from>
+IDENTIFIER: <these>
+IDENTIFIER: <honored>
+IDENTIFIER: <dead>
+IDENTIFIER: <we>
+IDENTIFIER: <take>
+IDENTIFIER: <increased>
+IDENTIFIER: <devotion>
+IDENTIFIER: <to>
+IDENTIFIER: <that>
+IDENTIFIER: <cause>
+IDENTIFIER: <for>
+IDENTIFIER: <which>
+IDENTIFIER: <they>
+IDENTIFIER: <gave>
+IDENTIFIER: <the>
+IDENTIFIER: <last>
+IDENTIFIER: <full>
+IDENTIFIER: <measure>
+IDENTIFIER: <of>
+ERROR     : <devotion�that>
+IDENTIFIER: <we>
+IDENTIFIER: <here>
+IDENTIFIER: <highly>
+IDENTIFIER: <resolve>
+IDENTIFIER: <that>
+IDENTIFIER: <these>
+IDENTIFIER: <dead>
+IDENTIFIER: <shall>
+IDENTIFIER: <not>
+IDENTIFIER: <have>
+IDENTIFIER: <died>
+IDENTIFIER: <in>
+ERROR     : <vain�that>
+IDENTIFIER: <this>
+ERROR     : <nation,>
+IDENTIFIER: <under>
+ERROR     : <God,>
+IDENTIFIER: <shall>
+IDENTIFIER: <have>
+IDENTIFIER: <a>
+IDENTIFIER: <new>
+IDENTIFIER: <birth>
+IDENTIFIER: <of>
+ERROR     : <freedom�and>
+IDENTIFIER: <that>
+IDENTIFIER: <government>
+IDENTIFIER: <of>
+IDENTIFIER: <the>
+ERROR     : <people,>
+IDENTIFIER: <by>
+IDENTIFIER: <the>
+ERROR     : <people,>
+IDENTIFIER: <for>
+IDENTIFIER: <the>
+ERROR     : <people,>
+IDENTIFIER: <shall>
+IDENTIFIER: <not>
+IDENTIFIER: <perish>
+IDENTIFIER: <from>
+IDENTIFIER: <the>
+ERROR     : <earth.>
+ERROR     : <### END OF INPUT ###>
