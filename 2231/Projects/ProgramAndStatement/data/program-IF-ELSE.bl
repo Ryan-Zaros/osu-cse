@@ -1,0 +1,18 @@
+PROGRAM Test IS
+
+  INSTRUCTION one IS
+     move
+  END one
+  
+  INSTRUCTION two IS
+    turnleft
+    turnleft
+  END two
+
+BEGIN
+  IF random THEN
+    infect
+  ELSE
+    skip
+  END IF
+END Test

@@ -1,0 +1,7 @@
+IF random THEN
+  infect
+ELSE
+  skip
+END IF
+
+

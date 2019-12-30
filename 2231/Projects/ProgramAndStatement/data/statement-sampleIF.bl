@@ -1,0 +1,4 @@
+IF next-is-not-enemy THEN
+  turnleft
+END IF
+
