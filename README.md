@@ -1,2 +1,2 @@
 # OSU_CSE
-A collection of assignments and projects from various OSU CSE courses.
+A collection of projects and laboratories from various computer science courses at The Ohio State University.
